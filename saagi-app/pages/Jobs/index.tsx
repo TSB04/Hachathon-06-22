@@ -4,6 +4,7 @@ import data from '../api/dataj.json'
 const Jobs : NextPage = () => {
     return (
         <MyTable
+            page={"Jobs"}
             data={data.jobs}
         />
     )

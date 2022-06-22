@@ -8,27 +8,13 @@ const styles = {
 		height: "100%",
 	},
 	main: {
-		margin: "1% 0 0 1%",
+		margin: 0,
+		padding: "1% 0 0 1%"
 	},
 	container: {
-		width: "87%",
+		width: "90%",
 		maxHeight: 675,
 		overflowX: "auto",
-		"&::-webkit-scrollbar": {
-			backgroundColor: "red",
-			width: "5px"
-		},
-		"&::-webkit-scrollbar-thumb": {
-			backgroundColor: "blue",
-			height: "1px"
-		},
-		"&::-webkit-scrollbar-track": {
-			backgroundColor: "white",
-		},
-		"&::-webkit-scrollbar-track-piece": {
-			backgroundColor: "rose",
-		},
-		
 	}
 }
 

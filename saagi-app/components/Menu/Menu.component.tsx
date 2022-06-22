@@ -4,7 +4,7 @@ import Link from "next/link"
 import Theme from "../../theme/Theme"
 
 const styleProps = {
-	width: "13%",
+	width: "10%",
 	minWidth: 120,
 	height: 675,
 	backgroundColor: Theme.palette.secondary.dark,
@@ -39,7 +39,7 @@ const Menu: FunctionComponent = () => {
 				</ListItem>
 				<ListItem disableGutters disablePadding>
 					<ListItemButton selected={selected === 1} onClick={_ => setSelected(1)} sx={menuStyles.selected}>
-						<Link href='/Options'>
+						<Link href="/Options">
 							<ListItemText>
 								<Typography>Options</Typography>
 							</ListItemText>

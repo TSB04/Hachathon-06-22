@@ -3,7 +3,7 @@ import { createTheme,responsiveFontSizes } from "@mui/material/styles"
 let Theme = createTheme({
     palette: {
         primary: {
-            main: "#587193",
+            main: "#253c5b",
         },
         secondary: {
             main: "#E52728",
@@ -22,18 +22,7 @@ let Theme = createTheme({
                 },
             }
         },
-        // MuiInput: {
-        //     styleOverrides: {
-        //         root: {
-        //             "#fileSelect": {
-        //                 textDecoration: "none",
-        //                 color: "red",
-        //                 backgroundColor: "tomato",
-        //                 // visibility: "hidden"
-        //             },
-        //         }
-        //     }
-        // }
+        
     }
 })
 
