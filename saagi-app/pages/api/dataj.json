@@ -1,0 +1,113 @@
+{
+    "jobs": [
+    {
+    "alerting": null,
+    "category": "Extraction",
+    "countJobInstance": 0,
+    "creationDate": "2022-06-22T14:21:28.302Z",
+    "cronScheduling": null,
+    "description": "",
+    "graphPipelines": [],
+    "id": "5c879e87-de50-4863-89a3-5e27617f483b",
+    "instances": [],
+    "isDeletable": true,
+    "isScheduled": false,
+    "isStreaming": false,
+    "migrationProjectId": null,
+    "migrationStatus": null,
+    "name": "pr",
+    "pipelines": [],
+    
+    "scheduleStatus": null,
+    "scheduleTimezone": "UTC"
+    
+    
+    },
+    {
+    "alerting": null,
+    "category": "Extraction",
+    "countJobInstance": 0,
+    "creationDate": "2022-06-22T12:50:26.196Z",
+    "cronScheduling": null,
+    "description": "",
+    "graphPipelines": [],
+    "id": "0d70d7c6-0626-4f67-8bb0-572afaa04ed0",
+    "instances": [],
+    "isDeletable": true,
+    "isScheduled": false,
+    "isStreaming": false,
+    "migrationProjectId": null,
+    "migrationStatus": null,
+    "name": "nut",
+    "pipelines": [],
+    
+    "scheduleStatus": null,
+    "scheduleTimezone": "UTC"
+    },
+    {
+    "alerting": null,
+    "category": "Extraction",
+    "countJobInstance": 0,
+    "creationDate": "2022-06-22T09:30:34.986Z",
+    "cronScheduling": null,
+    "description": "",
+    "graphPipelines": [],
+    "id": "ecd49235-4c3a-429f-8b1f-36b9d79a4b18",
+    "instances": [],
+    "isDeletable": true,
+    "isScheduled": false,
+    "isStreaming": false,
+    "migrationProjectId": null,
+    "migrationStatus": null,
+    "name": "test 2",
+    "pipelines": [],
+    
+    "scheduleStatus": null,
+    "scheduleTimezone": "UTC"
+    },
+    {
+    "alerting": null,
+    "category": "Extraction",
+    "countJobInstance": 2,
+    "creationDate": "2022-06-20T14:54:05.874Z",
+    "cronScheduling": null,
+    "description": "",
+    "graphPipelines": [],
+    "id": "54a65e65-134b-4f8d-bf54-99ef19958bc5",
+    
+    "isDeletable": true,
+    "isScheduled": false,
+    "isStreaming": false,
+    "migrationProjectId": null,
+    "migrationStatus": null,
+    "name": "job",
+    "pipelines": [],
+    
+    "scheduleStatus": null,
+    "scheduleTimezone": "UTC"
+    },
+    {
+    "alerting": null,
+    "category": "Extraction",
+    "countJobInstance": 5,
+    "creationDate": "2022-06-20T14:46:05.433Z",
+    "cronScheduling": null,
+    "description": "",
+    "graphPipelines": [],
+    "id": "0d3f07fe-4c27-4cbb-886a-67f191ea6e26",
+    
+    "isDeletable": true,
+    "isScheduled": false,
+    "isStreaming": false,
+    "migrationProjectId": null,
+    "migrationStatus": null,
+    "name": "test",
+    "pipelines": [],
+    
+    "scheduleStatus": null,
+    "scheduleTimezone": "UTC"
+    
+    
+    }
+    ]
+    }

@@ -1,0 +1,20 @@
+{
+    "projects": [
+        {
+        "creator": "benoit.franck",
+        "description": "",
+        "id": "aad54160-3a4b-485d-896f-0e04bd96bcb7",
+        "jobsCount": 5,
+        "name": "[ESTIAM] G04 Hackathon",
+        "status": "READY"
+        },
+        {
+        "creator": "estiam_g04_thierno-sadou.barry",
+        "description": "Project test",
+        "id": "ff6d44b0-141e-435d-a4c3-a2642fac2d78",
+        "jobsCount": 1,
+        "name": "[ESTIAM] Project_test 1",
+        "status": "READY"
+        }
+    ]
+}
